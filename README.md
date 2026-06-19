@@ -54,6 +54,7 @@ That's it. Your invoices will appear in the dashboard, and used for the survival
 
 > ⚠️ **Important:** Make sure your column headers match exactly and are Lower-Case. The import tool looks for these specific names. If you need a template, here's a template can copy (just click the link): [https://docs.google.com/spreadsheets/d/1-EzsW1401O3YoyWnbz-RZSnITB-UdkKTq8Eby9Xiens/copy]
 
+(You should DELETE the Dummy data before usage)
 ---
 
 ### 🛠️ Tech Stack
