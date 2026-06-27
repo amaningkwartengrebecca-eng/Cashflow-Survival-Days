@@ -1,7 +1,7 @@
 
 ### 🐙 Rhophilia – The "Duolingo" for Cashflow
 
-**Live Demo:**
+**Live Demo:** https://amaningkwartengrebecca-eng.github.io/cashflow-survival-days/
 
 ---
 
